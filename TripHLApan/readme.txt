@@ -1,4 +1,4 @@
-TripHLApan: predicting HLA Class I molecules binding peptides based on triple coding matrix and transfer learning.
+TripHLApan: predicting HLA molecules binding peptides based on triple coding matrix and transfer learning.
 =============================================
 
 Introduction
